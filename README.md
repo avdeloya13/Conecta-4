@@ -1,3 +1,3 @@
-# C
+# Conecta 4
 
-Algoritmos para practicar el lenguaje de programación C.
+Para practicar el lenguaje de programación C.
